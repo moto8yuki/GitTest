@@ -1,1 +1,5 @@
-void
+﻿void testfunction()
+{
+	printf("test");
+	わたしは鳥
+}
