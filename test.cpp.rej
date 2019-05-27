@@ -1,0 +1,8 @@
+diff a/test.cpp b/test.cpp	(rejected hunks)
+@@ -3,4 +3,5 @@
+ 	printf("test");
+ 	わたしは鳥
+ 	ソース
++		aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ }
+\ No newline at end of file
